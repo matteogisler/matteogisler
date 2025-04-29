@@ -55,4 +55,4 @@
 
 ---
 
-<p align="center">Thanks for stopping by! 🌐 Building the future, one block at a time.</p>
+<p align="center">Thanks for stopping by!🌐</p>
