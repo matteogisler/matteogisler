@@ -22,8 +22,7 @@ Frontend:   React • Next.js • TypeScript • TailwindCSS • Figma
 Backend:    Node.js • Express • PostgreSQL • REST APIs  
 Web3:       Wagmi • Ethers.js • Solidity (beginner) • Hardhat  
 Tools:      Git • Docker • Vercel • CI/CD • Jest • VS Code  
-
----
+```
 
 ---
 
