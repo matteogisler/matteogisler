@@ -44,6 +44,7 @@
 ![Solidity (Basics)](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/-.NET-5C2D91?logo=dotnet&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 
